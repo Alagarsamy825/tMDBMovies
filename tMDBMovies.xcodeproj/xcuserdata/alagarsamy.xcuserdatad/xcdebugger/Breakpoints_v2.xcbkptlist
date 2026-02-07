@@ -7,140 +7,32 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "5AAF78E9-C6AC-478C-8B3E-9F98CDD44266"
+            uuid = "2117C3B1-F9E7-4E44-817C-321DB7D87108"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "tMDBMovies/ViewModel/MovieListViewModel.swift"
+            filePath = "tMDBMovies/Controller/MoviesTableViewCell.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
-            landmarkName = "fetchPopularMovies()"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "favoriteTapped(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "CC5D81A1-1675-4B8B-8F27-7ED0E1027020"
+            uuid = "2FC024F8-6CB2-4565-88D0-1E7DF9724DF1"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "tMDBMovies/ViewModel/MovieListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "fetchPopularMovies()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "76567DC3-19EB-48B0-B385-D6BEA915C197"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "tMDBMovies/ViewModel/MovieListViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "fetchPopularMovies()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "76567DC3-19EB-48B0-B385-D6BEA915C197 - e5f5f5e2d97eacc8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;tMDBMovies.MovieResponse, Swift.Error&gt;) -&gt; () in tMDBMovies.MovieListViewModel.fetchPopularMovies() -&gt; ()"
-                  moduleName = "tMDBMovies.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alagarsamy/Documents/tMDBMovies/tMDBMovies/ViewModel/MovieListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "29"
-                  endingLineNumber = "29">
-               </Location>
-               <Location
-                  uuid = "76567DC3-19EB-48B0-B385-D6BEA915C197 - e5f5f5e2d97eacc8"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;tMDBMovies.MovieResponse, Swift.Error&gt;) -&gt; () in tMDBMovies.MovieListViewModel.fetchPopularMovies() -&gt; ()"
-                  moduleName = "tMDBMovies.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alagarsamy/Documents/tMDBMovies/tMDBMovies/ViewModel/MovieListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "29"
-                  endingLineNumber = "29">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "52D9E815-0F79-400A-9685-F6C229D7634E"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "tMDBMovies/ViewModel/MovieListViewModel.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "fetchPopularMovies()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "52D9E815-0F79-400A-9685-F6C229D7634E - 55a6e475678d447a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;tMDBMovies.MovieResponse, Swift.Error&gt;) -&gt; () in tMDBMovies.MovieListViewModel.fetchPopularMovies() -&gt; ()"
-                  moduleName = "tMDBMovies.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alagarsamy/Documents/tMDBMovies/tMDBMovies/ViewModel/MovieListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "26"
-                  endingLineNumber = "26">
-               </Location>
-               <Location
-                  uuid = "52D9E815-0F79-400A-9685-F6C229D7634E - e5f5f5e2d97ead34"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;tMDBMovies.MovieResponse, Swift.Error&gt;) -&gt; () in tMDBMovies.MovieListViewModel.fetchPopularMovies() -&gt; ()"
-                  moduleName = "tMDBMovies.debug.dylib"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/alagarsamy/Documents/tMDBMovies/tMDBMovies/ViewModel/MovieListViewModel.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F80A77CB-EE35-4691-B1BD-B224275E3FD7"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "tMDBMovies/Network/NetworkManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
-            landmarkName = "request(url:completion:)"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "fetchRuntime(for:at:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
